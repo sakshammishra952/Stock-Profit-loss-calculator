@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+label{
+    display:block;
+    padding-bottom:1 rem;
+}
+
+#initial-price{
+    padding-bottom: 2rem;
+}
