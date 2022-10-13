@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    background-color: #CDFCF6;
 }
 
 label{
@@ -9,4 +10,26 @@ label{
 
 #initial-price{
     padding-bottom: 2rem;
+}
+
+.input{
+    margin-bottom: 20px;
+    size: 20vw;
+}
+
+button{
+    background-color: #5F9DF7;
+    
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 80%;
+
+  
+
+
 }
